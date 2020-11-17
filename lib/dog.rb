@@ -21,4 +21,5 @@ class Dog
   def save
     @@self << self
   end
-  
+
+end
